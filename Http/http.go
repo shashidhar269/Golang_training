@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	http.HandleFunc("/hi", helloHandler)
-	err := http.ListenAndServe("localhost:7070", nil)
+	http.HandleFunc("/hei", helloHandler)
+	err := http.ListenAndServe("localhost:2020", nil)
 	log.Fatal(err)
 }
 
