@@ -17,7 +17,7 @@
 
 - Signed Integers - It contains both Positive and negative values along with value zero.
 
-4. Advantages And Disadvantages Of Golang
+4. Advantages And Disadvantages Of Go
 
 - <b>Adv</b>
 
